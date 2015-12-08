@@ -1,0 +1,16 @@
+.nav-tabs {
+    border-bottom: 1px solid #DDD;
+    width: 100%;
+}
+
+.nav-tabs > li{
+    list-style:none;
+}
+
+.tab-content {
+    width:600px;
+}
+
+a { 
+	color:#000000;
+}

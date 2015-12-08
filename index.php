@@ -1,6 +1,7 @@
 <?php
 
-echo "hello";
+include("includes,mysqlwrapperclass.php");
 
+echo "hello";
 
 ?>

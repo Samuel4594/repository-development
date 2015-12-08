@@ -1,0 +1,5 @@
+<?php
+
+require('thisDoc.php');
+
+?>
